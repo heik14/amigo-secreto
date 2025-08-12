@@ -16,7 +16,7 @@ para luego generar un sorteo aleatorio para determinar "El Amigo Secreto".
 - ✅ **Visualizar** todos los nombres ingresados.
 - ✅ **Sortear** un nombre aleatoriamente.
 - ✅ **Mostrar** el ganador en pantalla.
-- Se limpia la lista con: ```Crtl-R```, ```F5``` ó ```Botón Reload del browser```. 
+- Se limpia la lista con: ```Crtl-R```, ```F5``` ó ```Botón Reload del browser```
 
 ## Tecnologías Utilizadas
 ⛏️ HTML
