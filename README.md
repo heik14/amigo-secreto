@@ -10,6 +10,6 @@ para luego generar un sorteo aleatorio para determinar "El Amigo Secreto".
 3. Haz clic en el botón sortear amigo y aleatoriamente te deberá asignar al "Amigo Secreto"
 
 ## Autor
-   ``` Hector Leonardo Aguilar Lara ```
+   ``` Héctor Leonardo Aguilar Lara ```
 
 
