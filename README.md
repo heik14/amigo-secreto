@@ -5,9 +5,9 @@ Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigo
 para luego generar un sorteo aleatorio para determinar "El Amigo Secreto".
 
 ## Siguientes pasos 👣
-:one: Ingresa un nombre en el campo de texto.
-:two: Muestra los nombres en un lista visible debajo del campo de texto.
-:three: Haz clic en el botón sortear amigo y aleatoriamente te deberá asignar al "Amigo Secreto"
+1️⃣ Ingresa un nombre en el campo de texto.
+2️⃣ Muestra los nombres en un lista visible debajo del campo de texto.
+3️⃣ Haz clic en el botón sortear amigo y aleatoriamente te deberá asignar al "Amigo Secreto"
 
 ## Funcionalidades 🕹️
 
