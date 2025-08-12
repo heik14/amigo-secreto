@@ -4,10 +4,9 @@
 
 //Declaramos el arreglo
 let amigos = [];
+const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]+$/; //Valida cadena de texto
 
-const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]+$/;
-
-
+//Funcion para agregar un amigo
 function agregarAmigo(){
     let nombredeAmigos = document.getElementById('amigo').value.trim();
     if (nombredeAmigos !== ""){
@@ -16,7 +15,6 @@ function agregarAmigo(){
             alert("Este amigo ya está en la lista."); //Evita nombres duplicados
             return;
         }
-
     if (!regex.test(nombredeAmigos)) {
         alert("El nombre contiene caracteres no permitidos."); //Evita caracteres no permitidos
         return null;
@@ -44,6 +42,7 @@ function actualizarLista(){
         lista.appendChild(item); 
     }
 }
+
 //Funcion para sortear un amigo
 function sortearAmigo(){
      if (amigos.length === 0) {
@@ -55,7 +54,8 @@ function sortearAmigo(){
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = `<li>✅ Tu amigo sorteado es: </> ${amigoSorteado}</li>`;
 }
-//Función para limpiar el campo de entrada
+
+//Funcion para limpiar el campo de entrada
 function limpiarCaja(){
     document.getElementById("amigo").value = "";
 }

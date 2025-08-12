@@ -1,15 +1,29 @@
 <h1>Desafío Amigo Secreto - ONE G9 Alura Latam</h1>
 
-## Objetivo
+## Objetivo 🎯
 Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos,
 para luego generar un sorteo aleatorio para determinar "El Amigo Secreto".
 
-## Modo de uso
+## Siguientes pasos 👣
 1. Ingresa un nombre en el campo de texto.
 2. Muestra los nombres en un lista visible debajo del campo de texto.
 3. Haz clic en el botón sortear amigo y aleatoriamente te deberá asignar al "Amigo Secreto"
 
+## Funcionalidades 🕹️
+
+- ✅ **Agregar nombres** a la lista.
+- ✅ **Validar entradas** para evitar campos vacíos.
+- ✅ **Visualizar** todos los nombres ingresados.
+- ✅ **Sortear** un nombre aleatoriamente.
+- ✅ **Mostrar** el ganador en pantalla.
+- Se limpia la lista para que se ingrese nuevamente  
+
+## Tecnologías utilizadas
+⛏️ HTML
+🪛 JavaScript (JS)
+🧰 CSS 
+
 ## Autor
-   ``` Héctor Leonardo Aguilar Lara ```
+ 🤖  ```Héctor Leonardo Aguilar Lara```
 
 
